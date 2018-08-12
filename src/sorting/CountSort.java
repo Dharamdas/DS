@@ -25,6 +25,7 @@ public class CountSort {
     }
     static void countSort(int input [],int maxElement)
     {
+        //create new array with max element+1 size
             int counter[]= new int[maxElement+1];
 
             //fill the bucket
@@ -39,7 +40,8 @@ public class CountSort {
         {
             while(counter[j]>0)
             {
-                input[indx++]=j;
+                input[indx]=j;
+                indx++;
                 counter[j]--;
             }
         }

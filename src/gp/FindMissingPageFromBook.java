@@ -16,7 +16,7 @@ public class FindMissingPageFromBook {
 		int count=10;
 		System.out.println(findMissingPage(pages));
 		//System.out.println(findMissingElelment(pages));
-		printMissingNumber(pages,count);
+		//printMissingNumber(pages,count);
 		//usingInBuildClass(pages,count);
 	}
 	
@@ -25,7 +25,7 @@ public class FindMissingPageFromBook {
 	{
 		
 		int bookSize = pages.length;
-	    int totalSumOfPages = (bookSize+1)* (bookSize+2)/2;
+	    int totalSumOfPages = ((bookSize+1)* (bookSize+2))/2;
 	    
 	    System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
 	    for(int page:pages)

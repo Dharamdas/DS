@@ -12,7 +12,7 @@ public class TestScopeInterfaceImpl {
             @Override
             public void Foo() {
                 int x=10;
-                System.out.println("Inner Class Test Scope "+(x+5));
+                System.out.println("Inner Class Test Scope "+(x+5)); /// 15 will be printed
             }
         };
         testScopeInnerClass.Foo();
@@ -20,7 +20,7 @@ public class TestScopeInterfaceImpl {
 
         TestScopeInterface scopeInterfaceLambdaExp = ()->{
             //int x=10;
-            System.out.println("Lambda Expression Test Scope: "+(x));
+            System.out.println("Lambda Expression Test Scope: "+(x)); // 20 Will be printed
         };
         scopeInterfaceLambdaExp.Foo();
 

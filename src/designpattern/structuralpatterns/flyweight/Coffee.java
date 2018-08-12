@@ -3,7 +3,10 @@ package designpattern.structuralpatterns.flyweight;
 public class Coffee implements ICoffee{
 
 	private final String flavor;
-	
+
+	Integer it=null;
+	String str=null;
+
 	public Coffee(String newFlavor) {
         this.flavor = newFlavor;
         System.out.println("Coffee is created! - " + flavor);
