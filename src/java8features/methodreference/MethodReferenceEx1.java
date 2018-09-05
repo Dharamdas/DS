@@ -1,5 +1,6 @@
 package java8features.methodreference;
 
+@FunctionalInterface
 interface Predicate{
     boolean test(int n);
 }

@@ -18,7 +18,6 @@ public class CustomThreadPool {
          System.out.println("Thread-"+i +" created in ThreadPool.");
          threadPoolsThread.start();   //start thread
         }
-       
     }
 	
 	

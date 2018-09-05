@@ -1,7 +1,9 @@
 package gp;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class NonRepeatingCharacters {
 
@@ -10,8 +12,8 @@ public class NonRepeatingCharacters {
 		NonRepeatingCharacters characters = new NonRepeatingCharacters();
 		char c = characters.firstNonRepeatingChar(word);
 		System.out.println("First Non Repeating characters: "+c);
-	//	char c1 = characters.firstRepeatingCharacter(word);
-		//System.out.println("First Non Repeating characters: "+c1);
+		char c1 = characters.firstRepeatingCharacter(word);
+		System.out.println("First  Repeating characters: "+c1);
 	}
 	
 	public char firstNonRepeatingChar(String word)
@@ -32,7 +34,7 @@ public class NonRepeatingCharacters {
 		System.out.println(nonrepeating);
 		return nonrepeating.get(0);
 	}
-/*
+
 	public char firstRepeatingCharacter(String word)
 	{
 		Set<Character> repeating = new HashSet<Character>();
@@ -56,5 +58,5 @@ public class NonRepeatingCharacters {
         
         return repeating.iterator().next();
 	}
-*/	
+
 }

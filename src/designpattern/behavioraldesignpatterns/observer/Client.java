@@ -14,7 +14,5 @@ public class Client {
 		
 		// now publish the message
 		p.setAvailable(true);
-		
-		
 	}
 }

@@ -12,14 +12,40 @@ public class FindMissingPageFromBook {
 		}
 			System.out.println(sum);
 		
-		int pages[]={1,2,3,4,5,6,7,9,10};
-		int count=10;
-		System.out.println(findMissingPage(pages));
-		//System.out.println(findMissingElelment(pages));
-		//printMissingNumber(pages,count);
-		//usingInBuildClass(pages,count);
+		int pages[]={1,2,3,4,5,6,7,9,10}; // 8 missing
+		int EvenSeries[]={2,4,6,8,10,12,16,18};  // 14 missing
+		int oddSeries[]={1,3,5,7,9,11,15,17,19}; // 7 Missing
+		System.out.println("findMissingPage:: "+findMissingPage(pages));
+		System.out.println("findMissingPageWithEvenNo: "+findMissingPageWithEvenNo(EvenSeries));
+		System.out.println("findMissingPageWithOddNo: "+findMissingPageWithOddNo(oddSeries));
 	}
-	
+
+	public static int findMissingPageWithOddNo(int pages[])
+	{
+
+		int bookSize = pages.length;
+		int totalSumOfPages = ((bookSize)* (bookSize+2))+1;
+
+		System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
+		for(int page:pages)
+		{
+			totalSumOfPages = totalSumOfPages-page;
+		}
+		return totalSumOfPages;
+	}
+	public static int findMissingPageWithEvenNo(int pages[])
+	{
+
+		int bookSize = pages.length;
+		int totalSumOfPages = ((bookSize+1)* (bookSize+2));
+
+		System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
+		for(int page:pages)
+		{
+			totalSumOfPages = totalSumOfPages-page;
+		}
+		return totalSumOfPages;
+	}
 	
 	public static int findMissingPage(int pages[])
 	{
@@ -34,65 +60,4 @@ public class FindMissingPageFromBook {
 	    }
 		return totalSumOfPages;
 	}
-
-	public static void usingInBuildClass(int[] numbers, int count)
-	{
-		int totalMissingCount = count-numbers.length;
-		System.out.println("Total Missing Count: "+totalMissingCount);
-		BitSet bitSet = new BitSet(count);
-		
-		for(int num : numbers)
-		{
-			bitSet.set(num-1);
-		}
-		
-		int missingIndex=0;
-		
-		for(int i=0;i<totalMissingCount;i++)
-		{
-			missingIndex = bitSet.nextClearBit(missingIndex);
-			System.out.println(++missingIndex);
-		}
-	}
-	
-	
-	//using bitset and finds when missing elements are more then one
-	private static void printMissingNumber(int[] numbers, int count) {
-        int missingCount = count - numbers.length;
-        
-        BitSet bitSet = new BitSet(count);
-        for (int number : numbers) {
-            bitSet.set(number - 1);
-        }
- 
-        System.out.printf("Missing numbers in integer array %s, with total number %d is %n",
-        Arrays.toString(numbers), count);
-        int lastMissingIndex = 0;
-
-        for (int i = 0; i < missingCount; i++) {
-            lastMissingIndex = bitSet.nextClearBit(lastMissingIndex);
-            System.out.println(++lastMissingIndex);
-        }
- 
-    }
-	
-	//second method to do same
-	
-	public static int findMissingElelment(int pages[])
-	{
-		int first = pages[0];
-		int second = 1;
-		
-		for(int i=1;i<pages.length;i++)
-		{
-			first = first ^pages[i];
-		}
-		for(int i=2;i<=pages.length+1;i++)
-		{
-			second = second ^i;
-		}
-		System.out.println("Frist: "+first +" Second: "+second);
-		return first^second;
-	}
-	
 }

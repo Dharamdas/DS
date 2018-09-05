@@ -11,11 +11,12 @@ public class FindImmidiateOccuranceGreatestOREqualElement {
 
         System.out.println(arr);
         Map map = new HashMap<>();
-        for(int i=0;i<arr.length-1;i++)
+        int len=arr.length-1;
+        for(int i=0;i<len;i++)
         {
             int j=i+1;
 
-            while(j<=arr.length-1){
+            while(j<=len){
 
                 if(arr[j]>=arr[i])
                 {
@@ -23,7 +24,7 @@ public class FindImmidiateOccuranceGreatestOREqualElement {
                     break;
                 }
 
-                if(j==arr.length-1 && arr[j]<arr[i])
+                if(j==len)
                 {
                     map.put(arr[i],"Not Found");
                     break;

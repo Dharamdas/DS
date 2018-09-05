@@ -3,7 +3,7 @@ package gp;
 public class GCD {
 	public static void main(String[] args) {
 		System.out.println("GCD Of 20,32 is: "+ GCD.findGCD(20, 32));
-		System.out.println("GCD of 20,32 "+ GCD.gcd(20, 32));
+		System.out.println("recursive GCD of 20,32 "+ GCD.gcd(20, 32));
 		
 	}
 

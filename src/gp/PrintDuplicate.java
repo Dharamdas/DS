@@ -11,11 +11,11 @@ public class PrintDuplicate {
 	
 	//using count array
 	public static void printDuplicate1(int []a){
-		int count[] = new int[a.length-2];
+		int count[] = new int[1001];
 		for(int i=0;i<a.length;i++)
 		{
 			count[a[i]]++;
-			if(count[a[i]]==2)
+			if(count[a[i]]>1)
 				System.out.println(a[i]+" ");
 		}
 	}

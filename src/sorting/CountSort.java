@@ -35,6 +35,8 @@ public class CountSort {
             counter[i]++;
         }
 
+        printArray(counter,counter.length);
+
         int indx=0;
         for(int j=0;j<counter.length;j++)
         {
@@ -46,6 +48,15 @@ public class CountSort {
             }
         }
 
+    }
+
+    /* Utility function to print array arr[] */
+    static void printArray(int arr[], int arr_size)
+    {
+        int i;
+        for (i = 0; i < arr_size; i++)
+            System.out.print(arr[i]+" ");
+        System.out.println("");
     }
 
 }

@@ -17,7 +17,6 @@ public class SinglyLinkedList<E> {
 
     public SinglyLinkedList(int initialCapacity){
       this.initialCapacity=initialCapacity;
-
   }
 
   public SinglyLinkedList(){

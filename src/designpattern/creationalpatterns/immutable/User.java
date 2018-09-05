@@ -13,13 +13,13 @@ public final class User implements Cloneable{
 
     private final HashMap<String,Integer> map;
 
-    public User(String username, String password, String firstname, String lastname, String email, Map<String, Integer> map, HashMap<String, Integer> map1) {
+    public User(String username, String password, String firstname, String lastname, String email, HashMap<String, Integer> map) {
         this.username = username;
         this.password = password;
         this.email=email;
         this.firstname=firstname;
         this.lastname=lastname;
-        this.map = map1;
+        this.map = map;
     }
 
     public String getUsername() {
