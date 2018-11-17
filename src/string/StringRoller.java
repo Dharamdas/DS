@@ -12,6 +12,7 @@ public class StringRoller {
     }
 
     public static String roll(String toRoll, int roll[]) {
+
         int toRollLength = toRoll.length();
         int rollCounts[] = new int[toRollLength];
 

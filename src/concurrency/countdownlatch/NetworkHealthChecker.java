@@ -20,6 +20,7 @@ public class NetworkHealthChecker extends BaseHealthChecker {
         catch (InterruptedException e)
         {
             e.printStackTrace();
+            return false;
         }
         System.out.println(this.getServiceName() + " is UP");
 

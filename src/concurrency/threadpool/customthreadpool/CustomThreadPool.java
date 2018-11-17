@@ -37,9 +37,7 @@ public class CustomThreadPool {
         this.taskQueue.put(task);
     }
     
-    
-    
-	
+
 	  public boolean isPoolShutDownInitiated() {
           return poolShutDownInitiated;
    }

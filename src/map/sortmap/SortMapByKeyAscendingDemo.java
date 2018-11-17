@@ -13,11 +13,8 @@ public class SortMapByKeyAscendingDemo {
         Set<Map.Entry<Integer,Integer>> set = map.entrySet();
         List<Map.Entry<Integer,Integer>> list = new ArrayList<>(set);
         System.out.println("Map Before Sorting......"+list);
-        Collections.sort(list,new SortByKeyAscending());
+            Collections.sort(list,new SortByKeyAscending());
         System.out.println("Map After Sorting: "+list);
-
-
-
 
     }
 }

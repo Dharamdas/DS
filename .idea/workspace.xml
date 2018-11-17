@@ -3,75 +3,71 @@
   <component name="ChangeListManager">
     <list default="true" id="f577d1b4-89d6-4d4b-8548-ce2b730ab7cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/employee.txt" afterPath="$PROJECT_DIR$/employee.txt" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/arraylist/CustomArrayList.class" afterPath="$PROJECT_DIR$/out/production/DS/arraylist/CustomArrayList.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/classloader/ClassLoaderDemo.class" afterPath="$PROJECT_DIR$/out/production/DS/classloader/ClassLoaderDemo.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/BlockingQueueproducerconsumer/Consumer.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/BlockingQueueproducerconsumer/Consumer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/countdownlatch/ApplicationStartupUtil.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/countdownlatch/ApplicationStartupUtil.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/countdownlatch/NetworkHealthChecker.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/countdownlatch/NetworkHealthChecker.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/lock/BookTicket.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/lock/BookTicketDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/naturalnumber/EvenOddRunnable.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/naturalnumber/EvenOddRunnable.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/naturalnumber/Worker.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/naturalnumber/Worker.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/semaphore/producerconsumer/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/semaphore/producerconsumer/ConsumerProducer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/semaphore/producerconsumer/Producer.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/concurrency/threadpool/customthreadpool/CustomThreadPool.class" afterPath="$PROJECT_DIR$/out/production/DS/concurrency/threadpool/customthreadpool/CustomThreadPool.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/designpattern/behavioraldesignpatterns/observer/Client.class" afterPath="$PROJECT_DIR$/out/production/DS/designpattern/behavioraldesignpatterns/observer/Client.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/builder/CreateAccount$AccountBuilder.class" afterPath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/builder/CreateAccount$AccountBuilder.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/immutable/ImmutablePattern.class" afterPath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/immutable/ImmutablePattern.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/immutable/User.class" afterPath="$PROJECT_DIR$/out/production/DS/designpattern/creationalpatterns/immutable/User.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/general/FindImmidiateOccuranceGreatestOREqualElement.class" afterPath="$PROJECT_DIR$/out/production/DS/general/FindImmidiateOccuranceGreatestOREqualElement.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/Constants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/FindLastOccuranceOfElemet.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/FindLastOccuranceOfElemet.class" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/gp/FindMissingPageFromBook.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/FindMissingPageFromBook.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/FindNLargestNumberFromArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/FristRepeatingCharacterInString.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/GCD.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/GCD.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/MergeTwoArrayInSorted.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/MergeTwoArrayInSorted.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/NonRepeatingCharacters.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/NonRepeatingCharacters.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/NumberToWord.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/NumberToWordConvertor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/PrintDuplicate.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/PrintDuplicate.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/NonRepeatingCharacters.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/gp/RemoveDuplicate.class" afterPath="$PROJECT_DIR$/out/production/DS/gp/RemoveDuplicate.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/ReverseString.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/StringAnagram.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/gp/StringPallenDrom.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/java8features/functionalprograming/ussingfuntionalinterface/ShapeF.class" afterPath="$PROJECT_DIR$/out/production/DS/java8features/functionalprograming/ussingfuntionalinterface/ShapeF.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/EvenOddCheck.class" afterPath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/EvenOddCheck.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/MethodReferenceEx1.class" afterPath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/MethodReferenceEx1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/Predicate.class" afterPath="$PROJECT_DIR$/out/production/DS/java8features/methodreference/Predicate.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/linklist/CloneLinkedList.class" afterPath="$PROJECT_DIR$/out/production/DS/linklist/CloneLinkedList.class" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/linklist/SingllyLinkedListTest.class" afterPath="$PROJECT_DIR$/out/production/DS/linklist/SingllyLinkedListTest.class" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/linklist/SinglyLinkedList.class" afterPath="$PROJECT_DIR$/out/production/DS/linklist/SinglyLinkedList.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/employeedefault/Employee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/employeedefault/EmployeeSerializationConcept.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/employeedefault/EmployeeSerializationConceptDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/studentcustom/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/studentcustom/StudentSerializationConcept.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/seialization/studentcustom/StudentSerializationConceptDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/map/EnumMapExample.class" afterPath="$PROJECT_DIR$/out/production/DS/map/EnumMapExample.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/map/IdentityHM.class" afterPath="$PROJECT_DIR$/out/production/DS/map/IdentityHM.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/map/sortmap/SortByValueAscending.class" afterPath="$PROJECT_DIR$/out/production/DS/map/sortmap/SortByValueAscending.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/map/sortmap/SortMapByKeyAscendingDemo.class" afterPath="$PROJECT_DIR$/out/production/DS/map/sortmap/SortMapByKeyAscendingDemo.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/queue/ArrayCircularQueue.class" afterPath="$PROJECT_DIR$/out/production/DS/queue/ArrayCircularQueue.class" />
       <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/CountSort.class" afterPath="$PROJECT_DIR$/out/production/DS/sorting/CountSort.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/SelectionSort.class" afterPath="$PROJECT_DIR$/out/production/DS/sorting/SelectionSort.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/SortArrayContainsZeroAndOne.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/SortingArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/Dataset.class" afterPath="$PROJECT_DIR$/out/production/DS/sorting/Dataset.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/FrequencySort.class" afterPath="$PROJECT_DIR$/out/production/DS/sorting/FrequencySort.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/sorting/MinMaxProduct.class" afterPath="$PROJECT_DIR$/out/production/DS/sorting/MinMaxProduct.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/stack/ExpressionBalancing.class" afterPath="$PROJECT_DIR$/out/production/DS/stack/ExpressionBalancing.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/string/AlternativelyMergeTwoStrings.class" afterPath="$PROJECT_DIR$/out/production/DS/string/AlternativelyMergeTwoStrings.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/string/StringRoller.class" afterPath="$PROJECT_DIR$/out/production/DS/string/StringRoller.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DS/test/TESTINT.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/arraylist/CustomArrayList.java" afterPath="$PROJECT_DIR$/src/arraylist/CustomArrayList.java" />
+      <change beforePath="$PROJECT_DIR$/src/classloader/ClassLoaderDemo.java" afterPath="$PROJECT_DIR$/src/classloader/ClassLoaderDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Consumer.java" afterPath="$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/ApplicationStartupUtil.java" afterPath="$PROJECT_DIR$/src/concurrency/countdownlatch/ApplicationStartupUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/NetworkHealthChecker.java" afterPath="$PROJECT_DIR$/src/concurrency/countdownlatch/NetworkHealthChecker.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/lock/BookTicket.java" afterPath="$PROJECT_DIR$/src/concurrency/reentraintlock/ticketbooking/BookTicket.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/lock/BookTicketDemo.java" afterPath="$PROJECT_DIR$/src/concurrency/reentraintlock/ticketbooking/BookTicketDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/naturalnumber/EvenOddRunnable.java" afterPath="$PROJECT_DIR$/src/concurrency/naturalnumber/EvenOddRunnable.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/naturalnumber/Worker.java" afterPath="$PROJECT_DIR$/src/concurrency/naturalnumber/Worker.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/semaphore/producerconsumer/Consumer.java" afterPath="$PROJECT_DIR$/src/concurrency/semaphore/pc/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/semaphore/producerconsumer/ConsumerProducer.java" afterPath="$PROJECT_DIR$/src/concurrency/semaphore/pc/ConsumerProducer.java" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/semaphore/producerconsumer/Producer.java" afterPath="$PROJECT_DIR$/src/concurrency/semaphore/pc/Producer.java" />
       <change beforePath="$PROJECT_DIR$/src/concurrency/threadpool/customthreadpool/CustomThreadPool.java" afterPath="$PROJECT_DIR$/src/concurrency/threadpool/customthreadpool/CustomThreadPool.java" />
-      <change beforePath="$PROJECT_DIR$/src/designpattern/behavioraldesignpatterns/observer/Client.java" afterPath="$PROJECT_DIR$/src/designpattern/behavioraldesignpatterns/observer/Client.java" />
-      <change beforePath="$PROJECT_DIR$/src/designpattern/creationalpatterns/builder/CreateAccount.java" afterPath="$PROJECT_DIR$/src/designpattern/creationalpatterns/builder/CreateAccount.java" />
-      <change beforePath="$PROJECT_DIR$/src/designpattern/creationalpatterns/immutable/ImmutablePattern.java" afterPath="$PROJECT_DIR$/src/designpattern/creationalpatterns/immutable/ImmutablePattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/designpattern/creationalpatterns/immutable/User.java" afterPath="$PROJECT_DIR$/src/designpattern/creationalpatterns/immutable/User.java" />
-      <change beforePath="$PROJECT_DIR$/src/general/FindImmidiateOccuranceGreatestOREqualElement.java" afterPath="$PROJECT_DIR$/src/general/FindImmidiateOccuranceGreatestOREqualElement.java" />
+      <change beforePath="$PROJECT_DIR$/src/gp/FindLastOccuranceOfElemet.java" afterPath="$PROJECT_DIR$/src/gp/FindLastOccuranceOfElemet.java" />
       <change beforePath="$PROJECT_DIR$/src/gp/FindMissingPageFromBook.java" afterPath="$PROJECT_DIR$/src/gp/FindMissingPageFromBook.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/FindNLargestNumberFromArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/gp/FristRepeatingCharacterInString.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/gp/GCD.java" afterPath="$PROJECT_DIR$/src/gp/GCD.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/MergeTwoArrayInSorted.java" afterPath="$PROJECT_DIR$/src/gp/MergeTwoArrayInSorted.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/NonRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/gp/NonRepeatingCharacters.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/NumberToWordConvertor.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/gp/PrintDuplicate.java" afterPath="$PROJECT_DIR$/src/gp/PrintDuplicate.java" />
+      <change beforePath="$PROJECT_DIR$/src/gp/NonRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/gp/FirstNonRepeatingCharacters.java" />
       <change beforePath="$PROJECT_DIR$/src/gp/RemoveDuplicate.java" afterPath="$PROJECT_DIR$/src/gp/RemoveDuplicate.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/ReverseString.java" afterPath="$PROJECT_DIR$/src/string/ReverseString.java" />
-      <change beforePath="$PROJECT_DIR$/src/gp/StringAnagram.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/gp/StringPallenDrom.java" afterPath="$PROJECT_DIR$/src/string/StringPallenDrom.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/functionalprograming/ussingfuntionalinterface/ShapeF.java" afterPath="$PROJECT_DIR$/src/java8features/functionalprograming/ussingfuntionalinterface/ShapeF.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/methodreference/MethodReferenceEx1.java" afterPath="$PROJECT_DIR$/src/java8features/methodreference/MethodReferenceEx1.java" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/CloneLinkedList.java" afterPath="$PROJECT_DIR$/src/linklist/CloneLinkedList.java" />
       <change beforePath="$PROJECT_DIR$/src/linklist/SingllyLinkedListTest.java" afterPath="$PROJECT_DIR$/src/linklist/SingllyLinkedListTest.java" />
       <change beforePath="$PROJECT_DIR$/src/linklist/SinglyLinkedList.java" afterPath="$PROJECT_DIR$/src/linklist/SinglyLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/employeedefault/Employee.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/employeedefault/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/employeedefault/EmployeeSerializationConcept.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConcept.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/employeedefault/EmployeeSerializationConceptDemo.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConceptDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/studentcustom/Student.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/studentcustom/Student.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/studentcustom/StudentSerializationConcept.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/studentcustom/StudentSerializationConcept.java" />
-      <change beforePath="$PROJECT_DIR$/src/seialization/studentcustom/StudentSerializationConceptDemo.java" afterPath="$PROJECT_DIR$/src/seialization/serializable/studentcustom/StudentSerializationConceptDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/map/EnumMapExample.java" afterPath="$PROJECT_DIR$/src/map/EnumMapExample.java" />
+      <change beforePath="$PROJECT_DIR$/src/map/IdentityHM.java" afterPath="$PROJECT_DIR$/src/map/IdentityHM.java" />
+      <change beforePath="$PROJECT_DIR$/src/map/sortmap/SortByValueAscending.java" afterPath="$PROJECT_DIR$/src/map/sortmap/SortByValueAscending.java" />
+      <change beforePath="$PROJECT_DIR$/src/map/sortmap/SortMapByKeyAscendingDemo.java" afterPath="$PROJECT_DIR$/src/map/sortmap/SortMapByKeyAscendingDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/queue/ArrayCircularQueue.java" afterPath="$PROJECT_DIR$/src/queue/ArrayCircularQueue.java" />
       <change beforePath="$PROJECT_DIR$/src/sorting/CountSort.java" afterPath="$PROJECT_DIR$/src/sorting/CountSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SortArrayContainsZeroAndOne.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SortingArray.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/FrequencySort.java" afterPath="$PROJECT_DIR$/src/sorting/FrequencySort.java" />
+      <change beforePath="$PROJECT_DIR$/src/stack/ExpressionBalancing.java" afterPath="$PROJECT_DIR$/src/stack/ExpressionBalancing.java" />
+      <change beforePath="$PROJECT_DIR$/src/string/AlternativelyMergeTwoStrings.java" afterPath="$PROJECT_DIR$/src/string/AlternativelyMergeTwoStrings.java" />
+      <change beforePath="$PROJECT_DIR$/src/string/FindNumberOfInsertionToMakeStringPallendrom.java" afterPath="$PROJECT_DIR$/src/string/FindNumberOfInsertionToMakeStringPallendrom.java" />
+      <change beforePath="$PROJECT_DIR$/src/string/StringRoller.java" afterPath="$PROJECT_DIR$/src/string/StringRoller.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/TESTINT.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,8 +77,112 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DS" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ClassLoaderDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classloader/ClassLoaderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerConsumerBlockingQueueDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/ProducerConsumerBlockingQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationStartupUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/ApplicationStartupUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseHealthChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/BaseHealthChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CacheHealthChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/CacheHealthChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseHealthChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/DatabaseHealthChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetworkHealthChecker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/NetworkHealthChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartServiceTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/StartServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,6 +204,9 @@
       <find>modCount</find>
       <find>Hashtable</find>
       <find>put</find>
+      <find>enumeration</find>
+      <find>equals</find>
+      <find>contains</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,57 +220,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/designpattern/behavioraldesignpatterns/observer/Client.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/creationalpatterns/builder/CreateAccount.java" />
-        <option value="$PROJECT_DIR$/src/seialization/studentcustom/Student.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackCustom.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackCustomUsingArrayList.java" />
-        <option value="$PROJECT_DIR$/src/string/AlternativelyMergeTwoStrings.java" />
-        <option value="$PROJECT_DIR$/src/gp/FindPossiblePathUsing2DArray.java" />
-        <option value="$PROJECT_DIR$/src/string/StringRoller.java" />
-        <option value="$PROJECT_DIR$/src/gp/FindMinimumNoPlatform.java" />
-        <option value="$PROJECT_DIR$/src/string/FindNumberOfInsertionToMakeStringPallendrom.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackCustomUsingArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackCustomUsingArray.java" />
-        <option value="$PROJECT_DIR$/src/arraylist/StackCustomUsingArrayList.java" />
-        <option value="$PROJECT_DIR$/src/stack/StackDemo.java" />
-        <option value="$PROJECT_DIR$/src/arraylist/CustomArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/arraylist/CustomArrayList.java" />
-        <option value="$PROJECT_DIR$/src/stack/CustomStackTest.java" />
-        <option value="$PROJECT_DIR$/src/stack/CustomStack.java" />
-        <option value="$PROJECT_DIR$/src/stack/ExpressionBalancing.java" />
-        <option value="$PROJECT_DIR$/src/sorting/CountSort012.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/studentcustom/employeedefault/EmployeeSerializationConceptDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/studentcustom/studentcustom/StudentSerializationConceptDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/studentcustom/StudentSerializationConceptDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConcept.java" />
-        <option value="$PROJECT_DIR$/src/seialization/avoidcreatingNewobjSingleton/SingletonClass.java" />
-        <option value="$PROJECT_DIR$/src/seialization/avoidcreatingNewobjSingleton/SingletonDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/Super.java" />
-        <option value="$PROJECT_DIR$/src/seialization/SerializeDeserializeDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/employeedefault/Employee.java" />
-        <option value="$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConceptDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/externalizable/EmpExtDemo.java" />
-        <option value="$PROJECT_DIR$/src/seialization/externalizable/Emp.java" />
-        <option value="$PROJECT_DIR$/src/arraylist/ArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/src/sorting/Solution.java" />
-        <option value="$PROJECT_DIR$/src/map/IdentityHM.java" />
-        <option value="$PROJECT_DIR$/src/map/EnumMapExample.java" />
-        <option value="$PROJECT_DIR$/src/map/comparable/ComparableUsageDemo.java" />
-        <option value="$PROJECT_DIR$/src/map/comparable/ComparableEmployee.java" />
-        <option value="$PROJECT_DIR$/src/map/comparator/ComparatorUsageExample.java" />
-        <option value="$PROJECT_DIR$/src/map/comparator/ComparatorEmployee.java" />
-        <option value="$PROJECT_DIR$/src/map/comparator/ArraySortDescending.java" />
-        <option value="$PROJECT_DIR$/src/map/comparator/ArraySortDemo.java" />
-        <option value="$PROJECT_DIR$/src/map/sortmap/SortByKeyAscending.java" />
+        <option value="$PROJECT_DIR$/src/designpattern/behavioraldesignpatterns/observer/Product.java" />
+        <option value="$PROJECT_DIR$/src/gp/FindLastOccuranceOfElemet.java" />
+        <option value="$PROJECT_DIR$/src/gp/FindSubListFromMainList.java" />
+        <option value="$PROJECT_DIR$/src/gp/FirstNonRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/linklist/SingllyLinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/map/sortmap/SortByValueAscending.java" />
+        <option value="$PROJECT_DIR$/src/map/IdentityHM.java" />
+        <option value="$PROJECT_DIR$/src/queue/ArrayCircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/stack/ExpressionBalancing.java" />
+        <option value="$PROJECT_DIR$/src/string/FindNumberOfInsertionToMakeStringPallendrom.java" />
+        <option value="$PROJECT_DIR$/src/string/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/string/StringAnagram.java" />
+        <option value="$PROJECT_DIR$/src/string/StringRoller.java" />
         <option value="$PROJECT_DIR$/src/map/sortmap/SortMapByKeyAscendingDemo.java" />
-        <option value="$PROJECT_DIR$/src/map/sortmap/EmployeeComparator.java" />
-        <option value="$PROJECT_DIR$/src/map/sortmap/EmployeeComparatorDemo.java" />
-        <option value="$PROJECT_DIR$/src/map/sortmap/Employee.java" />
-        <option value="$PROJECT_DIR$/src/test/PassByValueExample2.java" />
-        <option value="$PROJECT_DIR$/src/connectionpool/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/src/sorting/MinMaxProduct.java" />
+        <option value="$PROJECT_DIR$/src/gp/KThLargestElement.java" />
+        <option value="$PROJECT_DIR$/src/gp/KThSmalletElement.java" />
+        <option value="$PROJECT_DIR$/src/gp/RemoveDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/naturalnumber/EvenOddRunnable.java" />
+        <option value="$PROJECT_DIR$/src/queue/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/gp/MaximumDiffrence.java" />
+        <option value="$PROJECT_DIR$/src/gp/MinimumAmout.java" />
+        <option value="$PROJECT_DIR$/src/microsoft/KClosest.java" />
+        <option value="$PROJECT_DIR$/src/microsoft/smallestFactors.java" />
+        <option value="$PROJECT_DIR$/src/microsoft/SmallestFactors.java" />
+        <option value="$PROJECT_DIR$/src/microsoft/MinNoOfItemToBeDelever.java" />
+        <option value="$PROJECT_DIR$/src/gp/KSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/searching/SearchAnElementUnSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/linklist/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/linklist/ReverseLL.java" />
+        <option value="$PROJECT_DIR$/src/linklist/linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/linklist/linkedList/MergeAndSort.java" />
+        <option value="$PROJECT_DIR$/src/linklist/CloneLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/linklist/MergeTwoLL.java" />
+        <option value="$PROJECT_DIR$/src/gp/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/sorting/CountSort.java" />
+        <option value="$PROJECT_DIR$/src/test/MaxTringularSequence.java" />
+        <option value="$PROJECT_DIR$/src/test/FloatValue.java" />
+        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/tree/LevelOrderTraverser.java" />
+        <option value="$PROJECT_DIR$/src/tree/CheckIsBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/BST.java" />
+        <option value="$PROJECT_DIR$/src/tree/EmployeeHierarchy.java" />
+        <option value="$PROJECT_DIR$/src/tree/emphierarchy/Employee.java" />
+        <option value="$PROJECT_DIR$/src/tree/emphierarchy/EmployeeHierarchy.java" />
+        <option value="$PROJECT_DIR$/src/tree/emphierarchy/EmployeeNode.java" />
+        <option value="$PROJECT_DIR$/src/tree/emphierarchy/data.txt" />
+        <option value="$PROJECT_DIR$/src/tree/emphierarchy/EmployeeReportingHierarchy.java" />
+        <option value="$PROJECT_DIR$/src/graph/Neighbor.java" />
+        <option value="$PROJECT_DIR$/src/graph/website.txt" />
+        <option value="$PROJECT_DIR$/src/graph/friendship.txt" />
+        <option value="$PROJECT_DIR$/src/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -178,10 +281,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="24" />
-    <option name="width" value="1629" />
-    <option name="height" value="971" />
+    <option name="x" value="70" />
+    <option name="y" value="43" />
+    <option name="width" value="1540" />
+    <option name="height" value="791" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -201,9 +304,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,17 +319,30 @@
               <item name="DS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="countdownlatch" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="CustomArrayList&#9;PSI&#9;JAVA://arraylist.CustomArrayList&#10;hashCode&#9;ACTION&#9;GenerateEquals" />
+    <property name="SearchEverywhereHistoryKey" value="pro&#9;PSI&#9;JAVA://sorting.Dataset#products&#10;CustomArrayList&#9;PSI&#9;JAVA://arraylist.CustomArrayList&#10;hashCode&#9;ACTION&#9;GenerateEquals" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -237,6 +353,7 @@
       <recent name="$PROJECT_DIR$/src/java8features/fileprocess" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/thread/synchronizedkeyworduses/without" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/concurrency/naturalnumber" />
       <recent name="$PROJECT_DIR$/src/concurrency" />
@@ -254,15 +371,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinMaxProduct">
-    <configuration name="ArraySortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Graph">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="map.comparator.*" />
+          <option name="PATTERN" value="tree.emphierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="map.comparator.ArraySortDemo" />
+      <option name="MAIN_CLASS_NAME" value="tree.BST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -274,14 +391,14 @@
       <module name="DS" />
       <envs />
     </configuration>
-    <configuration name="EmployeeComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeReportingHierarchy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="map.sortmap.*" />
+          <option name="PATTERN" value="tree.emphierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="map.sortmap.EmployeeComparatorDemo" />
+      <option name="MAIN_CLASS_NAME" value="tree.emphierarchy.EmployeeReportingHierarchy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -293,33 +410,14 @@
       <module name="DS" />
       <envs />
     </configuration>
-    <configuration name="MinMaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="sorting.MinMaxProduct" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS" />
-      <envs />
-    </configuration>
-    <configuration name="PassByValueExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FloatValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.PassByValueExample2" />
+      <option name="MAIN_CLASS_NAME" value="test.FloatValue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -331,14 +429,33 @@
       <module name="DS" />
       <envs />
     </configuration>
-    <configuration name="SortMapByKeyAscendingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="map.sortmap.*" />
+          <option name="PATTERN" value="graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="map.sortmap.SortMapByKeyAscendingDemo" />
+      <option name="MAIN_CLASS_NAME" value="graph.Graph" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DS" />
+      <envs />
+    </configuration>
+    <configuration name="LevelOrderTraverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tree.emphierarchy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tree.LevelOrderTraverser" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -366,19 +483,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArraySortDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SortMapByKeyAscendingDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EmployeeComparatorDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PassByValueExample2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MinMaxProduct" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FloatValue" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BST" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LevelOrderTraverser" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EmployeeReportingHierarchy" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Graph" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinMaxProduct" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PassByValueExample2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EmployeeComparatorDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SortMapByKeyAscendingDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArraySortDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Graph" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EmployeeReportingHierarchy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BST" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderTraverser" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FloatValue" />
       </list>
     </recent_temporary>
   </component>
@@ -453,12 +570,56 @@
       <workItem from="1535776105537" duration="2139000" />
       <workItem from="1535794894139" duration="28746000" />
       <workItem from="1535996411400" duration="8529000" />
-      <workItem from="1536114844813" duration="6000" />
+      <workItem from="1536114844813" duration="1456000" />
+      <workItem from="1536122061546" duration="6261000" />
+      <workItem from="1536130656087" duration="2398000" />
+      <workItem from="1536199559016" duration="6574000" />
+      <workItem from="1536248766184" duration="1300000" />
+      <workItem from="1536296413376" duration="8014000" />
+      <workItem from="1536372693244" duration="2971000" />
+      <workItem from="1536485091927" duration="1269000" />
+      <workItem from="1536580148483" duration="13047000" />
+      <workItem from="1536663905910" duration="3701000" />
+      <workItem from="1536759413960" duration="1360000" />
+      <workItem from="1536823893859" duration="6722000" />
+      <workItem from="1537001574663" duration="5464000" />
+      <workItem from="1537081262714" duration="9360000" />
+      <workItem from="1537116112666" duration="6074000" />
+      <workItem from="1537233555968" duration="2298000" />
+      <workItem from="1537544249102" duration="2316000" />
+      <workItem from="1537586840958" duration="1874000" />
+      <workItem from="1537702737178" duration="3658000" />
+      <workItem from="1537751211666" duration="597000" />
+      <workItem from="1537893957883" duration="20306000" />
+      <workItem from="1538013804199" duration="16683000" />
+      <workItem from="1538151637534" duration="152000" />
+      <workItem from="1538321535575" duration="2912000" />
+      <workItem from="1538381614117" duration="55000" />
+      <workItem from="1538381724525" duration="38000" />
+      <workItem from="1538532035374" duration="3074000" />
+      <workItem from="1538566850622" duration="7232000" />
+      <workItem from="1538744902815" duration="1054000" />
+      <workItem from="1539003373967" duration="9819000" />
+      <workItem from="1539088513849" duration="6180000" />
+      <workItem from="1539231415730" duration="2187000" />
+      <workItem from="1539236223283" duration="423000" />
+      <workItem from="1539599340809" duration="2030000" />
+      <workItem from="1539826662820" duration="150000" />
+      <workItem from="1539842665083" duration="931000" />
+      <workItem from="1540105957447" duration="3570000" />
+      <workItem from="1540170485596" duration="4375000" />
+      <workItem from="1541212042339" duration="5880000" />
+      <workItem from="1541771104256" duration="14368000" />
+      <workItem from="1542027933875" duration="8595000" />
+      <workItem from="1542104264758" duration="1618000" />
+      <workItem from="1542163562602" duration="3555000" />
+      <workItem from="1542259180972" duration="764000" />
+      <workItem from="1542419793392" duration="571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310923000" />
+    <option name="totallyTimeSpent" value="514153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,34 +631,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="24" width="1629" height="971" extended-state="0" />
+    <frame x="70" y="43" width="1540" height="791" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3105023" sideWeight="0.50220543" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46495327" sideWeight="0.5026991" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.49779457" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12149533" sideWeight="0.49527666" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19275701" sideWeight="0.4959514" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29237556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28771695" sideWeight="0.4949349" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24952741" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30365297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40186915" sideWeight="0.49730095" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24291497" sideWeight="0.50506514" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -506,27 +668,27 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3105023" sideWeight="0.50220543" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24952741" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18835616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20776255" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46689498" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37214613" sideWeight="0.49779457" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23440453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31379962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -540,104 +702,44 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linklist/ReverseLL.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linklist/MergeTwoLL.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/BST.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/BST.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="29" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/employeedefault/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/ObjectStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seialization/externalizable/Emp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seialization/externalizable/EmpExtDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/SortBySingleLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/MergeSortT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/FrequencySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/CountSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="342">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -645,266 +747,386 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraylist/CustomArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/sorting/CountSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="1">
+          <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraylist/ArrayListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/sorting/CountSort012.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="435">
+          <caret line="59" column="33" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/stack/CustomStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19728">
-          <caret line="1156" column="42" lean-forward="false" selection-start-line="1156" selection-start-column="20" selection-end-line="1156" selection-end-column="42" />
+        <state relative-caret-position="51">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/IdentityHM.java">
+    <entry file="file://$PROJECT_DIR$/src/stack/GetMinElementUsingStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="544">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+    <entry file="file://$PROJECT_DIR$/src/stack/RemoveMiddleElementFromStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1252" column="19" lean-forward="false" selection-start-line="1252" selection-start-column="16" selection-end-line="1252" selection-end-column="19" />
+        <state relative-caret-position="440">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparator/ArraySortDescending.java">
+    <entry file="file://$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="-63">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/EnumMapExample.java">
+    <entry file="file://$PROJECT_DIR$/src/string/StringRoller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparable/ComparableUsageDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparator/ComparatorEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparator/ComparatorUsageExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparator/ArraySortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/comparable/ComparableEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/SortByKeyAscending.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/SortByValueAscending.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="88" lean-forward="false" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/SortMapByKeyAscendingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/EmployeeComparatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map/sortmap/EmployeeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="72">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TESTINT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PassByValueExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connectionpool/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1818">
-          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/SwipeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/string/StringPallenDrom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/SumTheGivenDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/string/StringAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/RemoveDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/PrintDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/PrimeSeries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/PairSumFromArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/NonRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/MergeTwoArrayInSorted.java">
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseSentence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/FindPossiblePathUsing2DArray.java">
+    <entry file="file://$PROJECT_DIR$/src/string/PermutationOfString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/FindMissingPageFromBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/FindLastOccuranceOfElemet.java">
+    <entry file="file://$PROJECT_DIR$/src/string/AlternativelyMergeTwoStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gp/FindMinimumNoPlatform.java">
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/studentcustom/StudentSerializationConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="414">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/general/PriorityQueueTEST.java">
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/studentcustom/StudentSerializationConceptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConceptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/employeedefault/EmployeeSerializationConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seialization/externalizable/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seialization/avoidcreatingNewobjSingleton/SingletonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/PassByValueExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/MaxTringularSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/FloatValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/VLA2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/general/FindMedianFromStreamArray.java">
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/studentcustom/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="91" column="4" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seialization/serializable/employeedefault/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map/sortmap/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/general/MedianOfIntegerStream.java">
+    <entry file="file://$PROJECT_DIR$/src/tree/LevelOrderTraverser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-719">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/MinMaxProduct.java">
+    <entry file="file://$PROJECT_DIR$/src/tree/CheckIsBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/emphierarchy/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/emphierarchy/EmployeeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/website.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/friendship.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="22" />
+          <folding>
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#3570#3571#0" expanded="true" />
+            <element signature="e#3635#3636#0" expanded="true" />
+            <element signature="e#4698#4699#0" expanded="true" />
+            <element signature="e#4739#4740#0" expanded="true" />
+            <element signature="e#4783#4784#0" expanded="true" />
+            <element signature="e#4829#4830#0" expanded="true" />
+            <element signature="e#5101#5102#0" expanded="true" />
+            <element signature="e#5146#5147#0" expanded="true" />
+            <element signature="e#5416#5417#0" expanded="true" />
+            <element signature="e#5463#5464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/emphierarchy/EmployeeReportingHierarchy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraylist/CustomArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classloader/ClassLoaderApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classloader/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/BlockingQueueproducerconsumer/ProducerConsumerBlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/ApplicationStartupUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/BaseHealthChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/CacheHealthChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/DatabaseHealthChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/NetworkHealthChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/countdownlatch/StartServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>

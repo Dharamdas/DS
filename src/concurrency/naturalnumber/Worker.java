@@ -23,13 +23,12 @@ public class Worker implements Runnable {
 	            try {
 	                int i = q.take(); // blocks till it receives a number
 	                
-	                System.out.println( Thread.currentThread().getName() +  i);
+	                System.out.println(Thread.currentThread().getName() +  i);
 	                
 	                Thread.sleep(1000); // delay to slow the printing
 	                if (next != null){
 	                    next.accept(i+1); // pass the next number to the next worker 
 	                }
-	 
 	            } catch (InterruptedException e) {
 	                System.err.println( Thread.currentThread().getName() + " interrrupted.");
 	            }

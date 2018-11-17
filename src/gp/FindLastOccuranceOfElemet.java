@@ -8,7 +8,7 @@ public class FindLastOccuranceOfElemet {
 		System.out.println("Size Of Array: "+arr.length);
 		int lastOccur = 
 		FindLastOccuranceOfElemet.findLastOccuranceOfElemet(arr,0,arr.length,8);
-		System.out.println("Last Occurance: "+lastOccur);
+		System.out.println("Last Occurance Index: "+lastOccur);
 	}
 	public static int findLastOccuranceOfElemet(int arr[],int low,int high,int data){
 		if(high>low){

@@ -29,15 +29,11 @@ public class ArrayCircularQueue {
     }
 
     public void enQueue(int data){
-        if(isFull())
-        {
             insureCapacity();
-        }else{
             rare=(rare+1)%capacity;
             array[rare]=data;
             if(front==-1)
                 front=rare;
-        }
     }
     public int getQueueSize()
     {
@@ -65,23 +61,23 @@ public class ArrayCircularQueue {
 
     public void insureCapacity(){
 
-        int initialCapacity=capacity;
-        capacity*=2;
-        int []oldArray=array;
-        array= new int[capacity*2];
-        for(int i=0;i<oldArray.length;i++)
-        {
-            array[i]=oldArray[i];
-        }
-        System.out.println("Front -> "+front +" rare -> "+rare + " Capacity- > "+capacity);
-        if(rare<front)
-        {
-            for(int i=0;i<front;i++)
-            {
-                array[i+initialCapacity]=this.array[i];
-                array[i]=0;
+        if(isFull()) {
+
+            int initialCapacity = capacity;
+            capacity *= 2;
+            int[] oldArray = array;
+            array = new int[capacity * 2];
+            for (int i = 0; i < oldArray.length; i++) {
+                array[i] = oldArray[i];
             }
-            rare=rare+initialCapacity;
+            System.out.println("Front -> " + front + " rare -> " + rare + " Capacity- > " + capacity);
+            if (rare < front) {
+                for (int i = 0; i < front; i++) {
+                    array[i + initialCapacity] = this.array[i];
+                    array[i] = 0;
+                }
+                rare = rare + initialCapacity;
+            }
         }
     }
 

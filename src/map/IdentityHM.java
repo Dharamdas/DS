@@ -23,7 +23,7 @@ public class IdentityHM {
 
         Map<Emp,String> identityHashMap=new IdentityHashMap<Emp,String>();
         identityHashMap.put(new Emp("a"), "audi");
-        identityHashMap.put(new Emp("a"), "bmw");
+        identityHashMap.put(new Emp("a"), "audi");
 
         System.out.println("Identity HM: --> "+identityHashMap);
         System.out.println(identityHashMap.size());

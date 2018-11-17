@@ -26,7 +26,7 @@ public class FindMissingPageFromBook {
 		int bookSize = pages.length;
 		int totalSumOfPages = ((bookSize)* (bookSize+2))+1;
 
-		System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
+		System.out.println("Total sum: "+totalSumOfPages+" Arraysize "+bookSize);
 		for(int page:pages)
 		{
 			totalSumOfPages = totalSumOfPages-page;
@@ -39,7 +39,7 @@ public class FindMissingPageFromBook {
 		int bookSize = pages.length;
 		int totalSumOfPages = ((bookSize+1)* (bookSize+2));
 
-		System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
+		System.out.println("Total sum: "+totalSumOfPages+" Arraysize "+bookSize);
 		for(int page:pages)
 		{
 			totalSumOfPages = totalSumOfPages-page;
@@ -53,7 +53,7 @@ public class FindMissingPageFromBook {
 		int bookSize = pages.length;
 	    int totalSumOfPages = ((bookSize+1)* (bookSize+2))/2;
 	    
-	    System.out.println("Total sum: "+totalSumOfPages+"  "+bookSize);
+	    System.out.println("Total sum: "+totalSumOfPages+" Arraysize "+bookSize);
 	    for(int page:pages)
 	    {
 	    	totalSumOfPages = totalSumOfPages-page;

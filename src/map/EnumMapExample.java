@@ -21,6 +21,9 @@ public class EnumMapExample {
 
         Hashtable hashtable = new Hashtable();
 
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.putIfAbsent(10,20);
+
 
     }
 }

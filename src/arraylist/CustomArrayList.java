@@ -1,6 +1,7 @@
 package arraylist;
 
 import java.util.Arrays;
+import java.util.stream.Collectors;
 
 public class CustomArrayList<E> {
 
@@ -25,7 +26,6 @@ public class CustomArrayList<E> {
         return size==initialCapacity;
     }
     public void add(E element){
-
         ensureCapacity();
         elementList[size++]=element;
     }
@@ -35,7 +35,7 @@ public class CustomArrayList<E> {
         {
             int newCapacity = size*threshhold;
             initialCapacity=newCapacity;
-         elementList = Arrays.copyOf(elementList,newCapacity);
+            elementList = Arrays.copyOf(elementList,newCapacity);
         }
     }
 

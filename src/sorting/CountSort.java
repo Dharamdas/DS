@@ -53,6 +53,7 @@ public class CountSort {
     /* Utility function to print array arr[] */
     static void printArray(int arr[], int arr_size)
     {
+        System.out.println();
         int i;
         for (i = 0; i < arr_size; i++)
             System.out.print(arr[i]+" ");

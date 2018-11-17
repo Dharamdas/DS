@@ -46,6 +46,9 @@ public class SingllyLinkedListTest {
 
         System.out.println("\n Circular Node: "+node.findIfNodeCircular(node));
 
+        SinglyLinkedList noncirculer = node.detectAndRemoveLoop(node);
+        System.out.println("is circuler: "+ noncirculer.findIfNodeCircular(noncirculer));
+
 
 
     }

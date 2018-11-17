@@ -14,7 +14,7 @@ public class Consumer implements Runnable{
     public void run(){
         try{
             while (true) {
-                Thread.sleep(500);
+                Thread.sleep(1000);
                 System.out.println("Consuming: " + blockingQueue.take());
             }
         }catch (Exception e){

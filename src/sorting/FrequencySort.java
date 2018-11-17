@@ -36,11 +36,12 @@ public class FrequencySort {
        }
        
        List list = new LinkedList(map.entrySet());
-        System.out.println("Entry set returned Val: "+list);
+
+        System.out.println("\nEntry set returned Val: "+list);
        
        /* Sort the list elements based on frequency */
        Collections.sort(list, new ComparatorImpl());
-       
+        System.out.println("\n sorted List: "+list.toString());
        int count=0;
        
        /* Place the elements in to the array based on frequency */

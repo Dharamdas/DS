@@ -1,6 +1,8 @@
 package linklist;
 
 
+import org.w3c.dom.NodeList;
+
 public class SinglyLinkedList<E> {
 
     Integer i;
@@ -23,6 +25,10 @@ public class SinglyLinkedList<E> {
       //default Constructor
       SingleNode NodesList=null;
   }
+    public SinglyLinkedList(SingleNode node){
+        //default Constructor
+        this.nodesList=node;
+    }
 
   //Create Node with Given Data
   public SingleNode createNode(E data){
@@ -45,6 +51,33 @@ public class SinglyLinkedList<E> {
               current=nextNode;
           }
           nodesList=tempNode;
+  }
+
+  public SinglyLinkedList detectAndRemoveLoop(SinglyLinkedList linkedList){
+
+        SingleNode node = linkedList.nodesList;
+        if(node==null || node.getNext()==null)
+            return null;
+        SingleNode slow=node,fast=node;
+        while (fast!=null && fast.getNext()!=null)
+        {
+            if(slow==fast)
+                break;
+            slow=slow.getNext();
+            fast=fast.getNext().getNext();
+        }
+        //if loop exists
+      if(slow==fast){
+            slow=node;
+            while (slow.getNext()!=fast.getNext()){
+                slow=slow.getNext();
+                fast=fast.getNext();
+            }
+            fast.setNext(null);
+      }
+      linkedList.setNodesList(node);
+      return linkedList;
+
   }
 
   public boolean findIfNodeCircular(SinglyLinkedList linkedList){
@@ -264,20 +297,33 @@ public class SinglyLinkedList<E> {
           temp.setNext(newNode);
       }
   }
+  public SingleNode getList(){
+        return nodesList;
+  }
 
-  public void getList(){
+  private StringBuffer getprintList(){
       SingleNode singleNode = nodesList;
-      System.out.print("{");
+      StringBuffer sb = new StringBuffer();
+      sb.append("[");
+      //System.out.print("[");
       while(singleNode!=null)
       {
-         System.out.print(singleNode.getData()+" ,");
+        // System.out.print(singleNode.getData()+" ,");
+         sb.append(singleNode.getData());
+        // sb.append(",");
          singleNode = singleNode.getNext();
+         if(singleNode!=null)
+          sb.append(",");
+
       }
-      System.out.print("}");
+      sb.append("]");
+      return sb;
 
   }
 
-
-
+    @Override
+    public String toString() {
+        return getprintList().toString();
+    }
 }
 

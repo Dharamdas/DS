@@ -15,6 +15,5 @@ public class CloneLinkedList {
         orignalList.cloneListAndPointToRandomNodes();
         orignalList.printCloneList();
         System.out.println();
-
     }
 }

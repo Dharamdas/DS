@@ -57,6 +57,8 @@ public class ApplicationStartupUtil{
             if(!checker.isServiceup())
                 return false;
         }
+
+
         return true;
     }
 

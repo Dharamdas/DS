@@ -18,13 +18,9 @@ public class EvenOddRunnable implements Runnable{
 					{
 						System.out.println(Thread.currentThread().getName()+" "+count++);
 						if(currentThreadName.equals("Odd"))
-						{
 							currentThreadName="Even";
-						}
 						else
-							{
 							currentThreadName="Odd";
-							}
 						
 						lock.notifyAll();
 						
